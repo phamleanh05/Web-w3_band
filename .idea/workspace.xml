@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a868edc5-b10f-418b-9155-3bcb1a242570" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1z9YEVnDKbHryBE48HBFm2r71QU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a868edc5-b10f-418b-9155-3bcb1a242570" name="Default Changelist" comment="" />
+      <created>1633561660938</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1633561660938</updated>
+      <workItem from="1633561662739" duration="780000" />
+      <workItem from="1633563106746" duration="18297000" />
+      <workItem from="1633647358309" duration="12586000" />
+      <workItem from="1633727315445" duration="18243000" />
+      <workItem from="1636453353741" duration="14000" />
+      <workItem from="1640936754364" duration="74000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-840" y="-197" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1633655125588">
+      <screen x="-1200" y="-478" width="1200" height="1880" />
+    </state>
+    <state x="-840" y="-197" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1160/-1200.-478.1200.1880@-1200.-478.1200.1880" timestamp="1633655125588" />
+    <state x="-1098" y="539" key="SettingsEditor" timestamp="1633579589632">
+      <screen x="-1200" y="-478" width="1200" height="1880" />
+    </state>
+    <state x="-1098" y="539" key="SettingsEditor/0.0.1920.1160/-1200.-478.1200.1880@-1200.-478.1200.1880" timestamp="1633579589632" />
+    <state x="-1931" y="504" width="1933" height="661" key="dock-window-1" timestamp="1636453369332">
+      <screen x="-1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="-1207" y="335" width="1208" height="1074" key="dock-window-1/0.0.1920.1160/-1200.-478.1200.1880/1920.0.1024.728@-1200.-478.1200.1880" timestamp="1633747491655" />
+    <state x="-1207" y="339" width="1208" height="1070" key="dock-window-1/0.0.1920.1160/-1200.-478.1200.1880@-1200.-478.1200.1880" timestamp="1634077445620" />
+    <state x="-1931" y="504" width="1933" height="661" key="dock-window-1/0.0.1920.1160/-1920.0.1920.1160@-1920.0.1920.1160" timestamp="1636453369332" />
+    <state x="-947" y="418" key="run.anything.popup" timestamp="1633749135583">
+      <screen x="-1200" y="-478" width="1200" height="1880" />
+    </state>
+    <state x="-947" y="418" key="run.anything.popup/0.0.1920.1160/-1200.-478.1200.1880/1920.0.1024.728@-1200.-478.1200.1880" timestamp="1633749135583" />
+  </component>
+</project>
